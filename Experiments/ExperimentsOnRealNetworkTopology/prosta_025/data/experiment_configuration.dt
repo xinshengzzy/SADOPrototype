@@ -1,0 +1,12 @@
+#experimentName	#edgeSpreadFactor	#fileNumber	#capacity	#dataSet	#delegateRouterNumber
+experiment88	15					50			4			dataset7	100
+experiment89	15					100			4			dataset7	100
+experiment90	15					200			4			dataset7	100
+experiment91	15					300			4			dataset7	100
+experiment92	15					400			4			dataset7	100
+experiment93	15					500			4			dataset7	100
+experiment94	15					600			4			dataset7	100
+experiment95	15					700			4			dataset7	100
+experiment96	15					800			4			dataset7	100
+experiment97	15					900			4			dataset7	100
+experiment98	15					1000		4			dataset7	100
