@@ -1,0 +1,18 @@
+#experiment name	#file number	#times	#height	#spread factor
+experiment11	400		4	8	2
+experiment15	600		4	8	2
+experiment16	800		4	8	2
+experiment17	1000	4	8	2
+experiment18	1200	4	8	2
+experiment19	1400	4	8	2
+experiment20	800		1	8	2
+experiment21	800		2	8	2
+experiment22	800		6	8	2
+experiment23	800		8	8	2
+experiment24	800		10	8	2
+experiment25	800		4	6	2
+experiment26	800		4	7	2
+experiment27	800		4	9	2
+experiment28	800		4	10	2
+experiment29	800		4	11	2
+experiment30	800		4	8	3

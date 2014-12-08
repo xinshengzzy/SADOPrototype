@@ -1,0 +1,6 @@
+  The parameter of the configurations are explained as follows:
+  edgeSpreadFactor: the number of clients connected to each client delegate.
+  fileNumber: the number of files each source server supplies.
+  capacity: How many times the total content store capacity is as large as the total size of the files.
+  dataSet: the data set which defines the topology of the network. A data set consists of a file defining the routers and a file defining the links in the network. Originally we have 7 data sets, extracting from CAIDA as well as another real network topology. But then we found that SADO has obviously better performance than the other five routing schemes only when the diameter is greater than 6, so we give the configuration for the dataSet7 only.
+  delegateRouterNumber: the number of delegate routers in the network. Note that there are 5 server delegates in the network. In the file defining the routers, the first "delegateRouterNumber" nodes are client delegate routers, and the later 5 routers are the server delegate routers, followed by the normal routers which are connected with routers only.
